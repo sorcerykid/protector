@@ -1,0 +1,2 @@
+Protector Redux offers an efficient and flexible node-based protection scheme for players
+on survival and creative servers.
